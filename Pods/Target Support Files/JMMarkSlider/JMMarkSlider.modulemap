@@ -1,0 +1,6 @@
+framework module JMMarkSlider {
+  umbrella header "JMMarkSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
